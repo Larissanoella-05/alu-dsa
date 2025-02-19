@@ -36,7 +36,7 @@ cd Alu-dsa
 2. Run the application by executing the script:
 
 ```sh
-python alu-dsa.py
+python sparse_matrix.py
 ```
 
 You will be prompted to provide the paths to the input files and the desired operation (add, subtract, multiply).
