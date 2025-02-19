@@ -69,5 +69,5 @@ If there are any errors, appropriate messages will be displayed.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Imanzi Kabisa Placide
+Shimirwa larissa Noella
 
