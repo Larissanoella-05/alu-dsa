@@ -1,4 +1,4 @@
-# # SparseMatrix Application
+# # Sparse Matrix 
 
 ## Description
 
