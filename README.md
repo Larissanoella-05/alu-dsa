@@ -22,7 +22,7 @@ cols=<number_of_columns>
 ## Installation
 
 1. Clone the repository or download the script.
-   ```git clone https://github.com/pimanzi/SparseMatric_App.git
+   ```https://github.com/Larissanoella-05/alu-dsa.git
    ```
 3. Ensure Python is installed on your system. python3 is recommended
 
@@ -30,13 +30,13 @@ cols=<number_of_columns>
 
 1. Navigate to the project folder
 ```
-cd SparseMatric_App
+cd Alu-dsa
 
 ```
 2. Run the application by executing the script:
 
 ```sh
-python sparse_matrix.py
+python alu-dsa.py
 ```
 
 You will be prompted to provide the paths to the input files and the desired operation (add, subtract, multiply).
